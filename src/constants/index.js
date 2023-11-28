@@ -1,38 +1,28 @@
 import {
-    mobile,
-    backend,
-    creator,
-    web,
-    javascript,
-    typescript,
-    html,
-    css,
-    reactjs,
-    redux,
-    tailwind,
-    nodejs,
-    mongodb,
-    git,
-    java,
-    nextjs,
-    figma,
-    docker,
-    meta,
-    starbucks,
-    teach,
-    tute,
-    star,
-    tesla,
-    shopify,
-    carrent,
-    foodsite,
-    digitalmarket,
-    metaverse,
-    threads,
-    sound,
-    chatgpt,
-    threejs,
-  } from "../assets";
+  backend,
+  carrent,
+  chatgpt,
+  creator,
+  css,
+  foodsite,
+  git,
+  html,
+  java,
+  javascript,
+  metaverse,
+  mobile,
+  mongodb,
+  nextjs,
+  nodejs,
+  reactjs,
+  sound,
+  star,
+  tailwind,
+  teach,
+  threads,
+  tute,
+  web
+} from "../assets";
   
   export const navLinks = [
     {
@@ -156,7 +146,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+        "I thought it was impossible to make a website as beautiful as our product, but Jaydeep proved me wrong.",
       name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
@@ -164,7 +154,7 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
+        "I've never met a web developer who truly cares about their clients' success like Jaydeep does.",
       name: "Chris Brown",
       designation: "COO",
       company: "DEF Corp",
@@ -172,7 +162,7 @@ import {
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "After Jaydeep optimized our website, our traffic increased by 50%. We can't thank them enough!",
       name: "Lisa Wang",
       designation: "CTO",
       company: "456 Enterprises",
@@ -313,4 +303,4 @@ import {
     },
   ];
   
-  export { services, technologies, experiences, testimonials, projects };
+  export { experiences, projects, services, technologies, testimonials };
